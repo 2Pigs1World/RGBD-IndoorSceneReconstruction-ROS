@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libauxiliary.a  CMakeFiles/auxiliary.dir/debug.cpp.o CMakeFiles/auxiliary.dir/memory.cpp.o CMakeFiles/auxiliary.dir/threadpool.cpp.o CMakeFiles/auxiliary.dir/plywriter.cpp.o CMakeFiles/auxiliary.dir/ocv_tools.cpp.o
+/usr/bin/ranlib ../../lib/libauxiliary.a

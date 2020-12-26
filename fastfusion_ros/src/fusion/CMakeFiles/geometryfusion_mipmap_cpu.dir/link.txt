@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libgeometryfusion_mipmap_cpu.a  CMakeFiles/geometryfusion_mipmap_cpu.dir/geometryfusion_mipmap_cpu.cpp.o CMakeFiles/geometryfusion_mipmap_cpu.dir/loopclosure.cpp.o
+/usr/bin/ranlib ../../lib/libgeometryfusion_mipmap_cpu.a

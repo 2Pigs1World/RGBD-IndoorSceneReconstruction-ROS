@@ -1,0 +1,12 @@
+int32 time
+float32 translation1
+float32 translation2
+float32 translation3
+float32 q1
+float32 q2
+float32 q3
+float32 q4
+string depthname
+string rgbname
+sensor_msgs/Image colorImage
+sensor_msgs/Image depthImage

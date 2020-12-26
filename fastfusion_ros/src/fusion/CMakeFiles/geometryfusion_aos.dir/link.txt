@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libgeometryfusion_aos.a  CMakeFiles/geometryfusion_aos.dir/geometryfusion_aos.cpp.o CMakeFiles/geometryfusion_aos.dir/treeandbrick.cpp.o CMakeFiles/geometryfusion_aos.dir/treeandbrick_indexed.cpp.o CMakeFiles/geometryfusion_aos.dir/treeandbrick_incremental.cpp.o CMakeFiles/geometryfusion_aos.dir/treeandbrick_incremental_recursive.cpp.o CMakeFiles/geometryfusion_aos.dir/mesh.cpp.o CMakeFiles/geometryfusion_aos.dir/mesh_interleaved.cpp.o CMakeFiles/geometryfusion_aos.dir/mesh_interleaved_meshcell.cpp.o
+/usr/bin/ranlib ../../lib/libgeometryfusion_aos.a

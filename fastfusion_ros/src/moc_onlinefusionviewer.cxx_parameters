@@ -1,0 +1,13 @@
+-I/usr/local/include/opencv4
+-I/home/angel/Documents/rgbd/fastfusion/src
+-I/usr/include/eigen3
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4
+-I/usr/include/qt4/Qt
+-I/usr/include/qt4/QtCore
+-I/usr/include/qt4/QtXml
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtOpenGL
+-o
+/home/angel/Documents/rgbd/fastfusion/src/moc_onlinefusionviewer.cxx
+/home/angel/Documents/rgbd/fastfusion/src/onlinefusionviewer.hpp
